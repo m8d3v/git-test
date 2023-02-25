@@ -33,9 +33,16 @@ p {
 }
 
 .circle {
-    background: #ffef68;
-    border: 3px solid #3766ef;
+    background: rgb(210, 238, 52);
+    border: 3px solid rgb(20, 23, 226);;
     border-radius: 50%;
     height: 25px;
     width: 25px;
+}
+
+.triangle {
+    width: 0px;
+    height: 0px;
+    border-bottom: 25px solid rgb(207, 243, 4);
+    border-left: 25px solid transparent;
 }
