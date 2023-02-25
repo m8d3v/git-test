@@ -31,3 +31,11 @@ p {
     height: 20px;
     background-color:  rgb(210, 238, 52);
 }
+
+.circle {
+    background: #ffef68;
+    border: 3px solid #3766ef;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+}
